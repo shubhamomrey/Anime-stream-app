@@ -1,0 +1,152 @@
+.image {
+  display: relative;
+  margin-left: 40%;
+  margin-top: 10;
+  height: 100px;
+ 
+}
+.bg-image {
+  background-image: url(/public/bg.png);
+  width: 88%;
+  height: 477px;
+  background-size: cover;
+ margin-top: 10px;
+  margin-left: 70px;
+  background-color: #fff;
+  font-family: Verdana, Arial;
+}
+
+.caption {
+  position: absolute;
+  font-size: 16px;
+  top: 300px;
+  left: 150px;
+  color: #fff;
+}
+.caption2 {
+  position: absolute;
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 70px;
+  top: 330px;
+  left: 150px;
+  color: #fff;
+}
+.bubbles img {
+  height: 186px;
+  width: 685px;
+  position: absolute;
+  left: 150px;
+  top: 420px;
+}
+.signin {
+  position: absolute;
+  width: 290px;
+  height: 300px;
+  background-color: #2e51a2;
+  left: 830px;
+  top: 210px;
+}
+
+.signin1 {
+  height: 35px;
+  top: 40px;
+  left: 30px;
+  margin-bottom: 9px;
+  width: 232px;
+  background-color: #000;
+  border-radius: 2px;
+  font-size: 14px;
+  padding: 4px 8px;
+  position: relative;
+  text-align: center;
+}
+.signin2 {
+  height: 35px;
+  
+  left: 30px;
+  top: 39px;
+  width: 232px;
+  background-color: white;
+  border-radius: 2px;
+  font-size: 14px;
+  padding: 4px 8px;
+  position: relative;
+  text-align: center;
+}
+.signin3 {
+  height: 35px;
+  top: 49px;
+  left: 30px;
+ 
+  width: 232px;
+  background-color: #3b5998;
+  border-radius: 2px;
+  font-size: 14px;
+  padding: 4px 8px;
+  position: relative;
+  text-align: center;
+}
+.signin4 {
+  height: 35px;
+  top: 59px;
+  left: 30px;
+  width: 232px;
+  background-color: #1da1f2;
+  border-radius: 2px;
+  font-size: 14px;
+  padding: 4px 8px;
+  position: relative;
+  text-align: center;
+}
+.signin5 {
+  height: 35px;
+  top: 105px;
+  left: 30px;
+  width: 232px;
+  border-radius: 2px;
+  font-size: 14px;
+  padding: 4px 8px;
+  position: relative;
+  text-align: center;
+}
+.hr-tag {
+    position: absolute;
+    top: 220px;
+    width: 90px;
+    margin-left: 30px;
+    border: 1px solid #fff;
+}
+.hr-tag2 {
+    position: absolute;
+    top: 223px;
+    width: 50px;
+    margin-left: 135px;
+    color: #fff;
+}
+.hr-tag3 {
+    position: absolute;
+    top: 220px;
+    width: 90px;
+    margin-left: 170px;
+    border: 1px solid #fff;
+}
+.heading {
+    margin-left: 70px;
+    width: 88%;
+    background-color: #e1e7f5;
+    border-bottom-color: #1c439b;
+    border-left-color: #e5e5e5;
+    border-right-color: #e5e5e5;
+    border-style: solid;
+    border-top-color: #e5e5e5;
+    border-width: 1px;
+    color: #000;
+    font-family: Verdana,Arial;
+    font-size: 16px;
+    font-weight: 700;
+    position: relative;
+    padding: 5px 9px;
+    text-align: left;
+    
+}
